@@ -117,12 +117,7 @@ if page == "🏠 Home":
         - **Financing schemes** with high interest rates
         """)
         
-        st.markdown("### 🎯 **Who This App Helps**")
-        st.write("""
-        Built specifically for working families - nurses, teachers, electricians, 
-        plumbers, and garbage collectors who work hard for their money and deserve 
-        honest, transparent funeral services.
-        """)
+
     
     with col2:
         st.markdown("### 🛠️ **How This App Protects You**")
